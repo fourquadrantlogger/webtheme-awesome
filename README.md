@@ -4,9 +4,6 @@
 * [JMUI](https://github.com/AlloyTeam/JMUI)
 * [mui](https://github.com/dcloudio/mui)
 ## MAP
-
 [mapv](https://github.com/huiyan-fe/mapv)
-
 ## video
-
 [plyr](https://github.com/Selz/plyr)
