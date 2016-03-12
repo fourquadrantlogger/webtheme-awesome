@@ -2,7 +2,7 @@
 
 ##全端
 + [mui](https://github.com/muicss/mui)
-
++ [瀑布流 amazeui-masonry](https://github.com/amazeui/masonry)
 
 ##桌面端
 
@@ -20,7 +20,9 @@
 
 ## video
 + [plyr](https://github.com/Selz/plyr)
-
++ [amazeui/videojs](https://github.com/amazeui/videojs)
 
 ## markdown
 + [markdown-plus](https://github.com/tylingsoft/markdown-plus)
++ [bootstrap-markdown](https://github.com/toopay/bootstrap-markdown)
++ [amazeui-switch-button](https://github.com/amazeui/switch)
